@@ -1,0 +1,3 @@
+---
+title: Island of Ideas
+---
